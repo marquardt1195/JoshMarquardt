@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JoshMarquardt",
   "resources": {
-    "hash": "sha256-I66N5NI1Nza8gLcr/EHX/+a5UP6/Dv0MCLqUjT6sqJ8=",
+    "hash": "sha256-8DyMLPJmAeF4LUsnP0+cbYRZ3gEZGLdFEqERTR5/nMk=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.xqmh4tb6v0.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "JoshMarquardt.wasm": "sha256-m363yNjn+v+fS+y8s0lRCGjbozvRdBUJpHdwzxK5+Jo=",
+      "JoshMarquardt.wasm": "sha256-7qbW329btQTg+4WQmS5JqLTbjHvW6huMX2EsUWPj3gc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-hDgVU8dskq6ceJCAHgkHTu9K3i4UmrP6AkqkdHaRRQo=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-VnMUskpCPmW1fX4qZihu4ZyOPWe/cSBWh229O8+OZxU=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9pa4TX6FPCR8IZ3hObhj8D/J0Rp+4PZ1bfCK0WQAIZ8=",

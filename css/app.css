@@ -101,3 +101,58 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+.circular-photo {
+    border-radius: 50%;
+    left: -4rem;
+}
+
+.img-with-text {
+    text-align: left;
+    width: 280px;
+    margin-left: 15rem;
+}
+
+    .img-with-text img {
+        margin: 0 auto;
+    }
+
+.icon-hyperlink {
+    color: black;
+    text-decoration: none;
+}
+
+.text-hyperlink {
+    text-decoration: none;
+}
+
+.line-height {
+    line-height: 2;
+}
+
+.main-text-column {
+    margin-left: 100px;
+    margin-right: 350px;
+    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+}
+
+.make-flex {
+    display: flex;
+    align-items: flex-start;
+}
+
+.nav-menu-styling {
+    margin-left: 18rem;
+}
+
+.iframe-styling {
+    margin-left: 11rem;
+    width: 80%;
+    height: 750px;
+}
+
+.project-text-column {
+    margin-left: 275px;
+    margin-right: 425px;
+    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+}

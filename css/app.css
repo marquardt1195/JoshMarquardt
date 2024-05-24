@@ -135,6 +135,11 @@ code {
     margin-right: 350px;
     font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
+/*.main-text-column {
+    margin-left: 10%;
+    margin-right: 20%;
+    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+}*/
 
 .make-flex {
     display: flex;
@@ -156,3 +161,8 @@ code {
     margin-right: 425px;
     font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
+/*.project-text-column {
+    margin-left: 10%;
+    margin-right: 30%;
+    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+}*/

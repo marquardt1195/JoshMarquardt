@@ -105,16 +105,22 @@ code {
 .circular-photo {
     border-radius: 50%;
     left: -4rem;
+    position: relative;
 }
 
 .img-with-text {
     text-align: left;
     width: 280px;
-    margin-left: 15rem;
+    margin-left: 5%;
 }
+/*.img-with-text {
+    text-align: left;
+    width: auto;
+    margin-left: auto;
+}*/
 
     .img-with-text img {
-        margin: 0 auto;
+        margin: auto;
     }
 
 .icon-hyperlink {
@@ -147,22 +153,41 @@ code {
 }
 
 .nav-menu-styling {
-    margin-left: 18rem;
+    margin-left: 10%;
 }
 
 .iframe-styling {
-    margin-left: 11rem;
-    width: 80%;
-    height: 750px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    margin-left: 10%;
 }
 
-.project-text-column {
-    margin-left: 275px;
-    margin-right: 425px;
-    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-}
+/*.iframe-styling {
+    margin-left: 16%;
+    width: 70%;
+    height: 750px;
+}*/
+
 /*.project-text-column {
-    margin-left: 10%;
-    margin-right: 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }*/
+.project-text-column {
+    margin-left: 12%;
+    margin-right: 30%;
+    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+}
+
+.iframe-container {
+    position: relative;
+    overflow: hidden;
+    width: 80%;
+    padding-top: 56.25%;
+    margin-left: 5%;
+}

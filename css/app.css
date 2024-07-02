@@ -113,11 +113,6 @@ code {
     width: 280px;
     margin-left: 5%;
 }
-/*.img-with-text {
-    text-align: left;
-    width: auto;
-    margin-left: auto;
-}*/
 
     .img-with-text img {
         margin: auto;
@@ -130,6 +125,7 @@ code {
 
 .text-hyperlink {
     text-decoration: none;
+    font-weight: bold;
 }
 
 .line-height {
@@ -141,11 +137,6 @@ code {
     margin-right: 350px;
     font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
-/*.main-text-column {
-    margin-left: 10%;
-    margin-right: 20%;
-    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-}*/
 
 .make-flex {
     display: flex;
@@ -167,17 +158,6 @@ code {
     margin-left: 10%;
 }
 
-/*.iframe-styling {
-    margin-left: 16%;
-    width: 70%;
-    height: 750px;
-}*/
-
-/*.project-text-column {
-    margin-left: 15%;
-    margin-right: 15%;
-    font-family: ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-}*/
 .project-text-column {
     margin-left: 12%;
     margin-right: 30%;
